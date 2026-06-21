@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
  
         // Re-attach triggers to dynamic canvas elements
         document.querySelectorAll('.details-trigger').forEach(btn => {
-            btn.addEventListener('click', (e) => launchDetailsModal(e.target.dataset.id));
+            btn.addEventListener('click', () => launchDetailsModal(btn.dataset.id));
         });
     }
  
