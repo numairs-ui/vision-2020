@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vision 2020 | High-Performance Ballistic Protection Systems</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Inter:wght@400;500;600;700&family=Oswald:wght@500;700&display=swap"
+        rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        tacticalBlack: '#1A202C',
+                        gunmetalGray: '#4A5568',
+                        militaryGreen: '#4C514A',
+                        warningRed: '#C53030'
+                    },
+                    fontFamily: {
+                        heading: ['Oswald', 'sans-serif'],
+                        stencil: ['"Black Ops One"', 'cursive'],
+                        body: ['Inter', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .font-tactical {
+            font-family: 'Oswald', sans-serif;
+        }
+
+        .font-stencil {
+            font-family: 'Black Ops One', system-ui;
+            letter-spacing: 0.05em;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50 text-gray-900 flex flex-col min-h-screen">
+
+    <header class="bg-tacticalBlack text-white sticky top-0 z-40 border-b-2 border-militaryGreen shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
+             <div class="flex items-center gap-4 text-center sm:text-left justify-center sm:justify-start">
+                <div class="flex items-center gap-3 bg-black/40 border border-slate-800 px-4 py-2 rounded-lg shadow-inner">
+                    <div class="flex flex-col justify-center leading-none">
+                        <span class="text-[10px] tracking-[0.35em] text-gray-400 font-light font-tactical uppercase mb-1">VISION</span>
+                        <div class="flex gap-1.5 font-stencil text-2xl font-black select-none">
+                            <!-- Left Column: 2 (white), 0 (red) stacked & rotated -->
+                            <div class="flex flex-col items-center gap-1">
+                                <span class="inline-flex items-center justify-center w-5 h-5 transform -rotate-90 text-white">2</span>
+                                <span class="inline-flex items-center justify-center w-5 h-5 transform -rotate-90 text-warningRed">0</span>
+                            </div>
+                            <!-- Right Column: 2 (red), 0 (white) stacked & rotated -->
+                            <div class="flex flex-col items-center gap-1">
+                                <span class="inline-flex items-center justify-center w-5 h-5 transform -rotate-90 text-warningRed">2</span>
+                                <span class="inline-flex items-center justify-center w-5 h-5 transform -rotate-90 text-white">0</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hidden sm:block border-l border-militaryGreen/40 h-10 my-auto"></div>
+                <div class="text-left hidden sm:block">
+                    <p class="text-xs font-bold text-white font-tactical tracking-[0.15em] uppercase">SYSTEMS CATALOGUE</p>
+                    <p class="text-[9px] tracking-[0.18em] text-gray-400 uppercase font-semibold mt-0.5">Personal Safety & Body Armor Protection</p>
+                </div>
+            </div>
+            <nav id="filter-nav" class="flex flex-wrap justify-center gap-2">
+                <button data-target="All"
+                    class="nav-btn px-4 py-2 rounded text-xs font-bold uppercase font-tactical bg-militaryGreen text-white border border-militaryGreen shadow-md transition-all duration-300 tracking-wider">[00] All Systems</button>
+                <button data-target="Vests"
+                    class="nav-btn px-4 py-2 rounded text-xs font-bold uppercase font-tactical text-gray-400 border border-slate-800 bg-black/20 hover:bg-black/40 hover:text-white transition-all duration-300 tracking-wider">[01] Vests</button>
+                <button data-target="Helmets"
+                    class="nav-btn px-4 py-2 rounded text-xs font-bold uppercase font-tactical text-gray-400 border border-slate-800 bg-black/20 hover:bg-black/40 hover:text-white transition-all duration-300 tracking-wider">[02] Helmets</button>
+                <button data-target="Plates"
+                    class="nav-btn px-4 py-2 rounded text-xs font-bold uppercase font-tactical text-gray-400 border border-slate-800 bg-black/20 hover:bg-black/40 hover:text-white transition-all duration-300 tracking-wider">[03] Hard Plates</button>
+                <button data-target="Specialty"
+                    class="nav-btn px-4 py-2 rounded text-xs font-bold uppercase font-tactical text-gray-400 border border-slate-800 bg-black/20 hover:bg-black/40 hover:text-white transition-all duration-300 tracking-wider">[04] Specialty</button>
+            </nav>
+        </div>
+    </header>
+ 
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 py-8">
+    <section id="main-hero" class="relative w-full min-h-[350px] md:min-h-[400px] bg-tacticalBlack rounded-lg overflow-hidden mb-10 shadow-lg flex flex-col md:flex-row items-stretch border border-gray-800 transition-all duration-300">
+        <!-- Left Side: Content Panel (60%) -->
+        <div class="flex-grow flex-shrink p-8 md:p-12 flex flex-col justify-center relative z-10 bg-tacticalBlack bg-gradient-to-r from-tacticalBlack via-tacticalBlack to-tacticalBlack/90 md:bg-none">
+            <h2 class="flex flex-col items-start gap-1 uppercase text-white mb-4">
+                <span class="text-[10px] tracking-[0.3em] text-gray-400 font-tactical font-semibold uppercase mb-1">VISION 2020 MILITARY PROTECTION SYSTEMS</span>
+                <span class="text-3xl md:text-4xl lg:text-5xl font-extrabold font-stencil tracking-widest leading-none">TACTICAL</span>
+                <span class="text-3xl md:text-4xl lg:text-5xl font-extrabold font-stencil tracking-widest leading-none text-warningRed mt-1">ARMOR SYSTEMS</span>
+                <span class="bg-slate-800/80 backdrop-blur border border-slate-700/50 text-white px-4 py-1 rounded-full text-xs md:text-sm font-tactical uppercase tracking-[0.25em] shadow-md mt-3.5 inline-block">PRODUCT CATALOGUE</span>
+            </h2>
+            <p class="text-sm md:text-base text-gray-300 leading-relaxed mb-6 max-w-lg">
+                Designing, manufacturing, and deploying high-performance armor platforms matching severe law enforcement operations locally and abroad for over 20 years.
+            </p>
+            <div class="flex flex-wrap gap-2 mt-2">
+                <span class="border border-militaryGreen/40 bg-militaryGreen/10 backdrop-blur text-militaryGreen px-3 py-1 text-xs font-bold font-tactical uppercase tracking-wider rounded">ISO 9001:2015</span>
+                <span class="border border-militaryGreen/40 bg-militaryGreen/10 backdrop-blur text-militaryGreen px-3 py-1 text-xs font-bold font-tactical uppercase tracking-wider rounded">ISO 14001:2015</span>
+                <span class="border border-militaryGreen/40 bg-militaryGreen/10 backdrop-blur text-militaryGreen px-3 py-1 text-xs font-bold font-tactical uppercase tracking-wider rounded">ISO 45001:2018</span>
+            </div>
+        </div>
+        <!-- Right Side: Image Panel (40%) -->
+        <div class="relative w-full md:w-[45%] h-48 md:h-auto overflow-hidden">
+            <!-- Fade Overlay (blends text panel to image panel on desktop) -->
+            <div class="absolute inset-y-0 left-0 w-32 bg-gradient-to-r from-tacticalBlack to-transparent z-10 hidden md:block"></div>
+            <img src="assets/images/hero-main.jpg" alt="Tactical Operations" class="w-full h-full object-cover object-center" onerror="this.src='https://placehold.co/600x400/1a202c/ffffff?text=VISION+2020'">
+        </div>
+    </section>
+
+    <div id="category-hero-container" class="hidden mb-10 transition-all duration-300 ease-in-out"></div>
+
+    <div id="product-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+    </main>
+
+    <div id="details-modal"
+        class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden items-center justify-center p-4">
+        <div
+            class="bg-white rounded-lg shadow-2xl max-w-2xl w-full max-h-[90vh] flex flex-col overflow-hidden animate-in fade-in duration-200">
+            <div class="p-4 bg-tacticalBlack text-white flex justify-between items-center">
+                <h3 id="modal-title" class="text-xl font-bold font-tactical tracking-wide uppercase">Product Details
+                </h3>
+                <button id="close-modal" class="text-gray-400 hover:text-white text-2xl font-bold">&times;</button>
+            </div>
+            <div id="modal-content" class="p-6 overflow-y-auto space-y-6 text-sm"></div>
+        </div>
+    </div>
+
+    <footer class="bg-tacticalBlack text-gray-400 text-xs mt-12 border-t-2 border-militaryGreen">
+        <div class="max-w-7xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div>
+                <h4 class="text-white font-tactical font-bold uppercase tracking-wider mb-2">Vision 2020 Headquarters
+                </h4>
+                <p class="leading-relaxed">ABC Center, 17-D, 3rd Floor, Sector G-5, Diplomatic Enclave, Islamabad 44000,
+                    Pakistan</p>
+            </div>
+            <div class="md:text-right flex flex-col justify-end">
+                <p class="font-semibold text-gray-300">Operations Desk: +92 518487781-2</p>
+                <p>Secure Infrastructure Logistics Communications &copy; 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="products.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

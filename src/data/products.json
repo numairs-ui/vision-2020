@@ -1,0 +1,558 @@
+[
+  {
+    "id": "t-vip-001-1",
+    "category": "Vests",
+    "name": "Bullet Proof Vest",
+    "model": "T-VIP 001.1",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor",
+    "description": "High performance personal safety and body armor protection vest for VIP and personal use.",
+    "features": [
+      "Lightweight high quality, breathable outer cover",
+      "Outer cover made of poly-cotton for easy care and maximum comfort",
+      "Close Fit and ultra-thin panel",
+      "Front & back soft armor pockets",
+      "Removable & washable vest cover"
+    ],
+    "images": [
+      "t-vip-001-1-front.jpg",
+      "t-vip-001-1-angled.jpg",
+      "t-vip-001-1-back.jpg"
+    ]
+  },
+  {
+    "id": "t-vip-001-2",
+    "category": "Vests",
+    "name": "Covert Vest",
+    "model": "T-VIP 001.2",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor",
+    "description": "Covert body armor designed to be worn under standard clothing for low visibility protection.",
+    "features": [
+      "Lightweight high quality, breathable and water-resistant vest outer cover",
+      "Full Adjustable shoulder & sides",
+      "Front & back soft armor pockets",
+      "Cooling mesh which resists growth of bacteria and mold while keeping the wearer cool and comfortable by effective heat dissipation",
+      "Removable & washable vest cover"
+    ],
+    "images": [
+      "t-vip-001-2.jpg"
+    ]
+  },
+  {
+    "id": "t-vip-001-3",
+    "category": "Vests",
+    "name": "Covert Vest Shirt",
+    "model": "T-VIP 001.3",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor",
+    "description": "Ultra-lightweight covert vest shirt that is worn directly as a base layer under standard uniforms or clothing.",
+    "features": [
+      "Lightweight high quality, breathable and water-resistant vest shirt",
+      "Removable and washable shirt"
+    ],
+    "images": [
+      "t-vip-001-3.jpg"
+    ]
+  },
+  {
+    "id": "t-mod-002-1",
+    "category": "Vests",
+    "name": "Modular Vest (Desert Camo)",
+    "model": "T-Mod 002.1",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Modular tactical vest with customizable protection areas and extensive MOLLE load-bearing capabilities.",
+    "features": [
+      "Maximum protection selection options offering front, back, upper arm, shoulder, groin, collar and sides with addition of side plates.",
+      "Full MOLLE webbing system which facilitates installing of adds on equipment like magazine / pouches, GPS, small pack and hydration system.",
+      "Adjustable shoulder straps and sides for better fitment",
+      "Front and Back Soft Armor and Hard Armor pockets",
+      "1000D Fire Retard Outer cover manufactured from tough, lightweight nylon fabric",
+      "Emergency Drag Handle",
+      "Water Resistant Vest Cover, Soft Armor & HAP's Cover",
+      "OPTIONAL: Detachable pouches including Magazine pouches, Small Pack, Hydration system etc.",
+      "OPTIONAL: Front / Side Pockets, magazine pouches or front and back Velcro strip on upper chest for ID."
+    ],
+    "images": [
+      "t-mod-002-1-flat.jpg",
+      "t-mod-002-1-detail.jpg"
+    ]
+  },
+  {
+    "id": "t-mod-002-2",
+    "category": "Vests",
+    "name": "Modular Vest (Black)",
+    "model": "T-Mod 002.2",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Modular tactical vest in professional black color scheme with high durability fire-retardant outer shell.",
+    "features": [
+      "Maximum protection selection options offering front, back, shoulder, groin, collar and sides with addition of side plates.",
+      "Full MOLLE webbing system which facilitates installing of adds on equipment like magazine / pouches, GPS, small pack and hydration system.",
+      "Adjustable shoulder straps and sides for better fitment",
+      "Front and Back Soft Armor and Hard Armor pockets",
+      "1000D Fire Retard Outer cover manufactured from tough, lightweight nylon fabric",
+      "Emergency Drag Handle",
+      "Water Resistant Vest Cover, Soft Armor & HAP's Cover",
+      "OPTIONAL: Detachable pouches including Magazine pouches, Small Pack, Hydration system etc.",
+      "OPTIONAL: Front / Side Pockets, magazine pouches or front and back Velcro strip on upper chest for ID."
+    ],
+    "images": [
+      "t-mod-002-2-flat.jpg",
+      "t-mod-002-2-detail.jpg"
+    ]
+  },
+  {
+    "id": "t-mod-002-3",
+    "category": "Vests",
+    "name": "Modular Vest (Navy Blue)",
+    "model": "T-Mod 002.3",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Modular tactical vest in navy blue with advanced side plate support and harness system.",
+    "features": [
+      "Maximum protection selection options offering front, back, upper arm, shoulder, groin, collar and sides with addition of side plates.",
+      "Full MOLLE webbing system which facilitates installing of adds on equipment like magazine / pouches, GPS, small pack and hydration system.",
+      "Adjustable shoulder straps and sides for better fitment",
+      "Front and Back Soft Armor and Hard Armor pockets",
+      "1000D Fire Retard Outer cover manufactured from tough, lightweight nylon fabric",
+      "Emergency Drag Handle",
+      "Water Resistant Vest Cover, Soft Armor & HAP's Cover",
+      "OPTIONAL: Addition of Side Armor Plate and its MOLLE System Harness with rear belt support distributing weight evenly.",
+      "OPTIONAL: Front / Side Pockets, magazine pouches or front and back Velcro strip on upper chest for ID."
+    ],
+    "images": [
+      "t-mod-002-3-flat.jpg",
+      "t-mod-002-3-detail.jpg"
+    ]
+  },
+  {
+    "id": "t-tac-003-1",
+    "category": "Vests",
+    "name": "Tactical Vest (Desert Camo Type 1)",
+    "model": "T-TAC 003.1",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Tactical vest featuring a rapid-deployment quick release system and custom detachable pouches.",
+    "features": [
+      "Premium protection selection options offering front, back and sides protection with addition of side plates.",
+      "Quick Release system enabling quick emergency release",
+      "Number of custom detachable pouches facilitating GPS, small packs, hydration system etc.",
+      "Adjustable Shoulder and Waist"
+    ],
+    "images": [
+      "t-tac-003-1.jpg"
+    ]
+  },
+  {
+    "id": "t-tac-003-2",
+    "category": "Vests",
+    "name": "Tactical Vest (Desert Camo Type 2)",
+    "model": "T-TAC 003.2",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Tactical body armor featuring heavy MOLLE load capability, quick-release pull cord, and adjustable sizing.",
+    "features": [
+      "Premium protection selection options offering front, back and sides protection with addition of side plates.",
+      "Quick Release system enabling quick emergency release",
+      "Number of custom detachable pouches facilitating GPS, small packs, hydration system etc.",
+      "Adjustable Shoulder and Waist"
+    ],
+    "images": [
+      "t-tac-003-2.jpg"
+    ]
+  },
+  {
+    "id": "t-tac-003-3",
+    "category": "Vests",
+    "name": "Tactical Vest (Olive Green)",
+    "model": "T-TAC 003.3",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Tactical vest with laser-cut MOLLE webbing for lighter overall weight and superior load-bearing configuration.",
+    "features": [
+      "Premium protection selection options offering front, back and sides protection with addition of side plates.",
+      "Quick Release system enabling quick emergency release",
+      "Adjustable Shoulder and Waist",
+      "Laser cut MOLLE system compatible for load bearing of pouches and accessories"
+    ],
+    "images": [
+      "t-tac-003-3.jpg"
+    ]
+  },
+  {
+    "id": "t-tac-003-4",
+    "category": "Vests",
+    "name": "Tactical Vest (Tan)",
+    "model": "T-TAC 003.4",
+    "ballisticMaterial": "Aramid UD / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor upgradable to level III/IV by adding Hard Armor Plates",
+    "description": "Laser-cut tactical vest in coyote tan made from high-strength 1000D nylon fabric.",
+    "features": [
+      "Premium protection selection options offering front, back and sides protection with addition of side plates.",
+      "Quick Release system enabling quick emergency release",
+      "Adjustable Shoulder and Waist",
+      "Laser cut MOLLE system compatible for load bearing of pouches and accessories",
+      "1000D tough nylon fabric"
+    ],
+    "images": [
+      "t-tac-003-4.jpg"
+    ]
+  },
+  {
+    "id": "pasgt-helmet",
+    "category": "Helmets",
+    "name": "PASGT Combat Helmet",
+    "model": "PASGT",
+    "ballisticMaterial": "Aramid / UHMWPE UD / Hybrid",
+    "protection": "NIJ STD 0101.06 Level IIIA for .44 Mag and .357SIG (Bullet/Fragment proof, shock-absorption, fire retardant)",
+    "v50Value": ">650 m/sec",
+    "description": "The classic Personnel Armor System for Ground Troops helmet providing maximum coverage area and ballistic security.",
+    "features": [
+      "Provides maximum coverage and protection as compared to other Combat Helmets.",
+      "Includes a 4-Points or 5-Points suspension system using natural leather, cotton chin straps, and nylon webbings for maximum durability and comfort.",
+      "Polyurethane or Polyurea Matte surface treatment providing great concealment.",
+      "Optionally equipped with night vision shroud, ballistic visor, side rails, and NVG retention bungees for accessory attachment.",
+      "Available in sizes S/M/L."
+    ],
+    "images": [
+      "pasgt-helmet.jpg"
+    ]
+  },
+  {
+    "id": "pasgt-boltless-helmet",
+    "category": "Helmets",
+    "name": "PASGT Boltless Combat Helmet",
+    "model": "PASGT Boltless",
+    "ballisticMaterial": "Aramid / UHMWPE UD / Hybrid",
+    "protection": "NIJ STD 0101.06 Level IIIA for .44 Mag and .357SIG (Bullet/Fragment proof, shock-absorption, fire retardant)",
+    "v50Value": ">650 m/sec",
+    "description": "PASGT helmet utilizing a boltless shell design to eliminate weak points created by drilled hardware holes.",
+    "features": [
+      "The PASGT Helmet provides maximum coverage and protection as compared to other Combat Helmets.",
+      "Polyurethane or Polyurea Matte surface treatment providing great concealment.",
+      "Optionally equipped with night vision shroud, ballistic visor, side rails, and NVG retention bungees.",
+      "Available in sizes S/M/L."
+    ],
+    "images": [
+      "pasgt-boltless.jpg"
+    ]
+  },
+  {
+    "id": "mich-helmet",
+    "category": "Helmets",
+    "name": "MICH Combat Helmet",
+    "model": "MICH",
+    "ballisticMaterial": "Aramid / UHMWPE UD / Hybrid",
+    "protection": "NIJ STD 0101.06 Level IIIA for .44 Mag and .357SIG (Bullet/Fragment proof, shock-absorption, fire retardant)",
+    "v50Value": ">650 m/sec",
+    "description": "Modular Integrated Communications Helmet designed for better integration with communication gear and headsets.",
+    "features": [
+      "Polyurethane or Polyurea Matte surface treatment providing great concealment.",
+      "Optionally equipped with night vision shroud, ballistic visor, side rails, and NVG retention bungees.",
+      "Available in sizes S/M/L."
+    ],
+    "images": [
+      "mich-helmet.jpg"
+    ]
+  },
+  {
+    "id": "mich-high-cut",
+    "category": "Helmets",
+    "name": "MICH High Cut Helmet",
+    "model": "MICH High Cut",
+    "ballisticMaterial": "Aramid / UHMWPE UD / Hybrid",
+    "protection": "NIJ STD 0101.06 Level IIIA for .44 Mag and .357SIG (Bullet/Fragment proof, shock-absorption, fire retardant)",
+    "v50Value": ">650 m/sec",
+    "description": "High cut combat helmet providing a maximized field of view and seamless compatibility with modern tactical communications headsets.",
+    "features": [
+      "Retention system comes with 7 heat sealed durable, breathable, and low absorbency memory pads and dial adjustment for maximum fitment.",
+      "High cut design improves the field of vision and allows better compatibility with modern communication equipment.",
+      "Polyurethane or Polyurea Matte surface treatment providing great concealment.",
+      "Equipped with night vision shroud, side rails, and NVG retention bungees for device attachment.",
+      "Available in sizes S/M/L."
+    ],
+    "images": [
+      "mich-high-cut-front.jpg",
+      "mich-high-cut-side.jpg",
+      "mich-high-cut-interior.jpg",
+      "mich-high-cut-angled.jpg"
+    ]
+  },
+  {
+    "id": "mich-mid-cut",
+    "category": "Helmets",
+    "name": "MICH Mid Cut Helmet",
+    "model": "MICH Mid Cut",
+    "ballisticMaterial": "Aramid / UHMWPE UD / Hybrid",
+    "protection": "NIJ STD 0101.06 Level IIIA for .44 Mag and .357SIG (Bullet/Fragment proof, shock-absorption, fire retardant)",
+    "v50Value": ">650 m/sec",
+    "description": "Mid cut combat helmet offering a balanced compromise between side-coverage protection and tactical headset clearance.",
+    "features": [
+      "Retention system comes with 7 heat sealed durable, breathable, and low absorbency memory pads and dial adjustment for maximum fitment.",
+      "Polyurethane or Polyurea Matte surface treatment providing great concealment.",
+      "Equipped with night vision shroud, side rails, and NVG retention bungees.",
+      "Available in sizes S/M/L."
+    ],
+    "images": [
+      "mich-mid-cut-front.jpg",
+      "mich-mid-cut-group.jpg",
+      "mich-mid-cut-un.jpg"
+    ]
+  },
+  {
+    "id": "hard-armor-plates-single-curve",
+    "category": "Plates",
+    "name": "Hard Armor Plates (Single Curve)",
+    "description": "Single-curve ballistic inserts designed for chest and back protection in plate carriers and tactical vests.",
+    "variants": [
+      {
+        "material": "SIC Ceramic",
+        "models": [
+          {"code": "SICHAP101", "protection": "NIJ III ICW", "size": "250x300mm", "weight": "1.70kg"},
+          {"code": "SICHAP102", "protection": "NIJ III SA", "size": "250x300mm", "weight": "2.00kg"},
+          {"code": "SICHAP103", "protection": "NIJ IV ICW", "size": "250x300mm", "weight": "2.3kg"},
+          {"code": "SICHAP104", "protection": "NIJ IV SA", "size": "250x300mm", "weight": "2.6kg"}
+        ]
+      },
+      {
+        "material": "Al2O3 Ceramic",
+        "models": [
+          {"code": "AIHAP101", "protection": "NIJ III ICW", "size": "250x300mm", "weight": "1.9kg"},
+          {"code": "AIHAP102", "protection": "NIJ III SA", "size": "250x300mm", "weight": "2.2kg"},
+          {"code": "AIHAP103", "protection": "NIJ IV ICW", "size": "250x300mm", "weight": "2.4kg"},
+          {"code": "AIHAP104", "protection": "NIJ IV SA", "size": "250x300mm", "weight": "2.6kg"}
+        ]
+      },
+      {
+        "material": "UHMWPE",
+        "models": [
+          {"code": "PEHAP101", "protection": "NIJ III ICW", "size": "250x300mm", "weight": "1.2kg"},
+          {"code": "PEHAP102", "protection": "NIJ III SA", "size": "250x300mm", "weight": "1.4kg"}
+        ]
+      }
+    ],
+    "images": [
+      "hard-armor-plate-single-curve.jpg",
+      "hard-armor-plates-banner.jpg"
+    ]
+  },
+  {
+    "id": "hard-armor-plates-multi-curve",
+    "category": "Plates",
+    "name": "Hard Armor Plates (Multi-Curve & Side Plates)",
+    "description": "Anatomically shaped multi-curve ballistic plates for enhanced body contouring and side plates for lateral protection.",
+    "variants": [
+      {
+        "material": "SIC Ceramic Multicurve",
+        "models": [
+          {"code": "SICHAP201", "protection": "NIJ III ICW", "size": "250x300mm", "weight": "1.8kg"},
+          {"code": "SICHAP202", "protection": "NIJ III SA", "size": "250x300mm", "weight": "2.10kg"},
+          {"code": "SICHAP203", "protection": "NIJ IV ICW", "size": "250x300mm", "weight": "2.5kg"},
+          {"code": "SICHAP204", "protection": "NIJ IV SA", "size": "250x300mm", "weight": "2.8kg"}
+        ]
+      },
+      {
+        "material": "UHMWPE Multicurve",
+        "models": [
+          {"code": "PEHAP201", "protection": "NIJ III ICW", "size": "250x300mm", "weight": "1.2kg"},
+          {"code": "PEHAP202", "protection": "NIJ III SA", "size": "250x300mm", "weight": "1.4kg"}
+        ]
+      },
+      {
+        "material": "SIC Ceramic Side Plate (Single Curve)",
+        "models": [
+          {"code": "SICSHAP101", "protection": "NIJ III ICW", "size": "200x200mm", "weight": "1.0kg"},
+          {"code": "SICSHAP102", "protection": "NIJ III SA", "size": "200x200mm", "weight": "1.1kg"}
+        ]
+      }
+    ],
+    "images": [
+      "hard-armor-plates-grid.jpg"
+    ]
+  },
+  {
+    "id": "bulletproof-materials",
+    "category": "Materials",
+    "name": "UHMWPE UD Ballistic Fabric",
+    "description": "High-grade Ultra High Molecular Weight Polyethylene Uni-Directional fabric rolls and pre-cut sheets for soft and hard armor manufacturing.",
+    "variants": [
+      {
+        "type": "Soft Armor UD Fabric",
+        "protection": "NIJ 0101.06 Level IIIA for 9mm, .44 Mag, and .357SIG",
+        "models": [
+          {"code": "SAPE101", "udType": "2UD / 4UD / 6UD", "arealDensity": "148 g/m2"},
+          {"code": "SAPE102", "udType": "2UD / 4UD / 6UD", "arealDensity": "145 g/m2"},
+          {"code": "SAPE103", "udType": "2UD / 4UD / 6UD", "arealDensity": "142 g/m2"}
+        ]
+      },
+      {
+        "type": "Hard Armor UD Fabric",
+        "protection": "NIJ 0101.06 NIJ IIIA / III / IV",
+        "models": [
+          {"code": "HAPE101", "udType": "2UD / 4UD / 6UD"},
+          {"code": "HAPE102", "udType": "2UD / 4UD / 6UD"},
+          {"code": "HAPE103", "udType": "2UD / 4UD / 6UD"}
+        ]
+      }
+    ],
+    "images": [
+      "fabric-rolls.jpg",
+      "fabric-panels.jpg"
+    ]
+  },
+  {
+    "id": "t-vis-004-1",
+    "category": "Visors",
+    "name": "Tactical Helmet Visor (with Side Rails)",
+    "model": "T-VIS 004.1",
+    "ballisticMaterial": "PC + PU Laminated",
+    "protection": "NIJ 0101.06 level IIIA for .44 Mag, .357SIG & 9mm",
+    "description": "Detachable ballistic visor designed to attach directly to tactical helmets equipped with side rails.",
+    "features": [
+      "Visor used in conjunction with bullet proof helmet & side rails.",
+      "Compatible with PASGT / MICH / FAST helmet architectures.",
+      "Detachable visor provides maximum face protection.",
+      "Physical specifications - Length: 360mm, Height: 145mm, Thickness: 21mm, Weight <1.55 kg."
+    ],
+    "images": [
+      "t-vis-004-1.jpg"
+    ]
+  },
+  {
+    "id": "t-vis-004-2",
+    "category": "Visors",
+    "name": "Standard Helmet Visor (Bolt-on)",
+    "model": "T-VIS 004.2",
+    "ballisticMaterial": "PC + PU Laminated",
+    "protection": "NIJ 0101.06 level IIIA for .44 Mag, .357SIG & 9mm",
+    "description": "Detachable face shield visor designed for helmets without accessory side rails, providing full frontal facial protection.",
+    "features": [
+      "Visor used in conjunction with standard bullet proof helmets.",
+      "Compatible with PASGT / MICH / FAST helmet architectures.",
+      "Detachable visor provides maximum face protection.",
+      "Physical specifications - Length: 360mm, Height: 145mm, Thickness: 21mm, Weight <1.55 kg."
+    ],
+    "images": [
+      "t-vis-004-2.jpg"
+    ]
+  },
+  {
+    "id": "t-bps-005-1",
+    "category": "Shields",
+    "name": "Tactical Bulletproof Shield (Rectangular)",
+    "model": "T-BPS 005.1",
+    "ballisticMaterial": "UHMWPE / PE + Al2O3 / PE + Sic",
+    "protection": "NIJ 0101.06 level IIIA / III",
+    "description": "Handheld rectangular body shield featuring high-visibility ballistic glass window and heavy-duty grip handles.",
+    "features": [
+      "Lightweight design with maximized protection coverage.",
+      "High visibility bulletproof glass observation window.",
+      "Aluminum or Light Steel handles for a secure, ergonomic grip.",
+      "Optional: Detachable light, stand, or ground wheels."
+    ],
+    "images": [
+      "t-bps-005-1.jpg"
+    ]
+  },
+  {
+    "id": "t-bps-005-2",
+    "category": "Shields",
+    "name": "Tactical Bulletproof Shield (Contoured)",
+    "model": "T-BPS 005.2",
+    "ballisticMaterial": "UHMWPE / PE + Al2O3 / PE + Sic",
+    "protection": "NIJ 0101.06 level IIIA / III",
+    "description": "Ergonomically contoured body shield optimized for defensive mobility, cut out for weapons support.",
+    "features": [
+      "Lightweight design with contoured outline for weapons integration.",
+      "High visibility bulletproof glass observation window.",
+      "Aluminum or Light Steel handles for a secure grip.",
+      "Optional: Detachable light, stand, or ground wheels."
+    ],
+    "images": [
+      "t-bps-005-2.jpg"
+    ]
+  },
+  {
+    "id": "t-bps-005-3",
+    "category": "Shields",
+    "name": "Mobile Trolley Bulletproof Shield",
+    "model": "T-BPS 005.3",
+    "ballisticMaterial": "UHMWPE / PE + Al2O3 / PE + Sic",
+    "protection": "NIJ 0101.06 level IIIA / III",
+    "description": "Heavy-duty wheeled mobile barrier shield for assault operations, fitted with optional headlights.",
+    "features": [
+      "Mobile wheeled stand for effortless navigation of heavy armor plates.",
+      "High visibility bulletproof glass observation window.",
+      "Trolley system with locks and handles for dual-officer operation.",
+      "Optional: Detachable headlight bars, stand, or caster wheels."
+    ],
+    "images": [
+      "t-bps-005-3-raised.jpg",
+      "t-bps-005-3-front.jpg",
+      "t-bps-005-3-back.jpg"
+    ]
+  },
+  {
+    "id": "t-brc-006-1",
+    "category": "Briefcases & Blankets",
+    "name": "Ballistic Briefcase",
+    "model": "T-BRC 006.1",
+    "ballisticMaterial": "Aramid / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA Soft Armor",
+    "description": "Discreet personal security briefcase that unfolds in seconds into a full-length body shield.",
+    "features": [
+      "Designed for VIP personnel, businessmen, or bodyguards for high-security protection.",
+      "Briefcase outer made of high-quality genuine/synthetic leather or heavy-duty Nylon.",
+      "Lightweight construction equipped with a flip-opening system to ensure rapid deployment.",
+      "Customized pockets inside for carrying sensitive/valuable documents, magazine pouches, or packs.",
+      "Customizable sizing options for specific operational requirements."
+    ],
+    "images": [
+      "t-brc-006-1-closed.jpg",
+      "t-brc-006-1-unfolded.jpg"
+    ]
+  },
+  {
+    "id": "t-bbc-006-2",
+    "category": "Briefcases & Blankets",
+    "name": "Ballistic Blanket",
+    "model": "T-BBC 006.2",
+    "ballisticMaterial": "Aramid / UHMWPE UD",
+    "protection": "NIJ 0101.06 level IIIA / III",
+    "description": "Flexible heavy-duty protective blanket designed to shield individuals or gear from ballistic impact and blast shrapnel.",
+    "features": [
+      "Blanket made of high-quality, high-strength ballistic materials.",
+      "Lightweight construction equipped for rapid, easy deployment in threat situations.",
+      "Includes 8 heavy-duty carry handles and quick-link buckles to connect multiple blankets.",
+      "Optional support frame to make the blanket free-standing.",
+      "Versatile application: quick-install armor for vehicles, boats, and aircraft."
+    ],
+    "images": [
+      "t-bbc-006-2-flat.jpg",
+      "t-bbc-006-2-stood.jpg"
+    ]
+  },
+  {
+    "id": "t-eod-006-1",
+    "category": "EOD Suits",
+    "name": "EOD / Demining Suit",
+    "model": "T-EOD 006.1",
+    "ballisticMaterial": "UHMWPE",
+    "protection": "Offers anti fragmentation system in range of 500 - 650m/s V50 value according to STANAG 2920",
+    "description": "Professional Explosive Ordnance Disposal suit offering comprehensive protection against blast pressure, fragmentation, heat, and impact shock.",
+    "features": [
+      "Quick release pull-cord system for fast and easy suit removal in emergencies.",
+      "Thick localized absorption cushions to dissipate blast waves while retaining operational mobility.",
+      "Integrated active cooling system to manage internal heat during prolonged wear.",
+      "Integrated hard-wired communication systems for direct squad contact.",
+      "Outer cover and materials resistant to high heat and open fire hazards.",
+      "Next-generation UHMWPE layups for a superior flexibility-to-weight ratio."
+    ],
+    "images": [
+      "t-eod-006-1-side.jpg",
+      "t-eod-006-1-front.jpg"
+    ]
+  }
+]
